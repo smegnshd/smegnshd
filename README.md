@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+-PhD student at Addis Ababa University (Mathematics)
+
+-Junior Data Science and Machine Learning Engineer
+  
