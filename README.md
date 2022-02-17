@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 - 🌱 I am a Junior Data Scientist and Machine Learning Engineer
 - 🔭 Currently I'm Mathematics PhD student at Addis Ababa University.
-- 🌱 I’m currently learning on ### React JS
+- 🌱 I’m currently learning on **React JS**
 - 👯 I’m looking to collaborate on ## any data science projects and Open Source contribution .
 - 🤔 I’m looking for help with learning # Block chain, Pairs trading
 - 💬 Ask me about I would love to here, and # help only if the ball is in my court!.
