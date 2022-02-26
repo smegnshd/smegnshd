@@ -3,18 +3,16 @@
  </p>
  
  <hr>
-<h1 align="center">Hi Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Smegnsh
+<h1 align="center"> Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Smegnsh
  </h1>
-<h3 align="center">Machine Learning Engineer | Data Scientist </h3>
+<h3 align="center">Junior Data Scientist  |  Machine Learning Engineer </h3>
 <p align="center">
-**### Hi there 👋 I am Smegnsh
 
 <!--
 **smegnshd/smegnshd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🌱 I am a Junior Data Scientist and Machine Learning Engineer
 - 🔭 Currently I'm Mathematics PhD student at Addis Ababa University.
 - 🌱 I’m currently learning on **React JS**
 - 👯 I’m looking to collaborate on ## any data science  and machine learnig projects and Open Source contribution .
@@ -35,5 +33,11 @@ Here are some ideas to get you started:
 
 ### My Statstics  
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=smegnshd&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+ 
+ <p align="center">
+ <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activity</b></i></p>
+ 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=smegnshd&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=smegnshd&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
 
 
