@@ -1,3 +1,6 @@
+<p align="center">
+<img src="https://36f9fea5-a-62cb3a1a-s-sites.googlegroups.com/site/nips2012topology/home/torus.png?attachauth=ANoY7crCZz42ljPH8nWYVGDBnh3pyzBFlDlIDGGpKh-sEYPl2eWhhI-M_AsfenHYWcS36z_P4x1GSLrBUeaGG1iRcZQuNtBWvnjTnFzJnDFfXzQMtYiIpG3wKAV-V0Hl7AAVYu8_Btjqb_-A3EyRF1n7tNi1N65IGWoz9J6yHN28H1ry_sIvMXOJSJj_UFrIGrn3n0Buh5GQbe91e-sVVIEi6-Zl_GFytA%3D%3D&attredirects=0" height="200"/>
+ </p>
 ### Hi there 👋 I am Smegnsh
 
 <!--
@@ -27,4 +30,4 @@ Here are some ideas to get you started:
 ### My Statstics  
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=smegnshd&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
-<img src="https://36f9fea5-a-62cb3a1a-s-sites.googlegroups.com/site/nips2012topology/home/torus.png?attachauth=ANoY7crCZz42ljPH8nWYVGDBnh3pyzBFlDlIDGGpKh-sEYPl2eWhhI-M_AsfenHYWcS36z_P4x1GSLrBUeaGG1iRcZQuNtBWvnjTnFzJnDFfXzQMtYiIpG3wKAV-V0Hl7AAVYu8_Btjqb_-A3EyRF1n7tNi1N65IGWoz9J6yHN28H1ry_sIvMXOJSJj_UFrIGrn3n0Buh5GQbe91e-sVVIEi6-Zl_GFytA%3D%3D&attredirects=0" height="200"/>
+
