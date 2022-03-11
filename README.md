@@ -46,5 +46,3 @@ Here are some ideas to get you started:
 <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
 <img src="https://github-profile-trophy.vercel.app/?username=smegnshd&theme=juicyfresh&no-bg=true" />
 
-[![ReadMe Kartı](https://github-readme-stats.vercel.app/api/pin/?username=smegnshd&repo=github-readme-stats)](https://github.com/smegnshd/github-readme-stats)
-
