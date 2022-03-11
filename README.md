@@ -1,7 +1,7 @@
 <p align="center">
 <img src="https://36f9fea5-a-62cb3a1a-s-sites.googlegroups.com/site/nips2012topology/home/torus.png?attachauth=ANoY7crCZz42ljPH8nWYVGDBnh3pyzBFlDlIDGGpKh-sEYPl2eWhhI-M_AsfenHYWcS36z_P4x1GSLrBUeaGG1iRcZQuNtBWvnjTnFzJnDFfXzQMtYiIpG3wKAV-V0Hl7AAVYu8_Btjqb_-A3EyRF1n7tNi1N65IGWoz9J6yHN28H1ry_sIvMXOJSJj_UFrIGrn3n0Buh5GQbe91e-sVVIEi6-Zl_GFytA%3D%3D&attredirects=0" height="200"/>
  </p>
- ![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<Techinologiesand Language>&logoColor=white&color=2bbc8a)
+ 
  <hr>
 <h1 align="center"> Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Smegnsh
  </h1>
@@ -49,12 +49,12 @@ Here are some ideas to get you started:
 
 You can find me on \[!\[Twitter\][1.2]\][1], or on \[!\[LinkedIn\][3.2]\][3].
 
-<!-- Icons -->
+<!-- Icons 
 
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
 [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 
-<!-- Links to your social media accounts -->
+ Links to your social media accounts -->
 
-[1]: https://twitter.com/smegnshD
-[2]: https://et.linkedin.com/in/smegnsh-demelash-67b104a0
+<!-- [1]: https://twitter.com/smegnshD
+[2]: https://et.linkedin.com/in/smegnsh-demelash-67b104a0    -->
