@@ -37,6 +37,7 @@ Here are some ideas to get you started:
  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=smegnshd&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
 <p>&nbsp;<img height="180em" src="https://github-readme-stats.vercel.app/api?username=smegnshd&count_private=true" /></p>
+<p><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smegnsh&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></p>
 
 
 <br><br><br><br><br>
