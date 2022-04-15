@@ -42,25 +42,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smegnshd)](https://github.com/gezish/github-readme-stats)
 <p>Language Tools: </p>
  
- <!--
- <p align="center">
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activity</b></i></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=smegnshd&show_icons=true&theme=great-gatsby&count_private=true&include_all_commits=true" /></p>
-<p>&nbsp;<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smegnshd&theme=great-gatsby&layout=compact&card_width=445)](https://github.com/anuraghazra/github-readme-stats" /></p>
-
-
-
-![Smegnsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=smegnshd&show_icons=true&theme=great-gatsby&count_private=true&include_all_commits=true)
-  
-  
-  
-  
-  
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smegnshd&theme=great-gatsby&layout=compact&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
--->
-
 
 
 <br><br><br><br><br>
