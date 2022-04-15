@@ -34,11 +34,11 @@ Here are some ideas to get you started:
 
  <p align="center">
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activity</b></i></p>
-<!--  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=smegnshd&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></p>
-<p>&nbsp;<img height="180em" src="https://github-readme-stats.vercel.app/api?username=smegnshd&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /></p>
 
--->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=smegnshd&show_icons=true&theme=great-gatsby&count_private=true&include_all_commits=true" /></p>
+<p>&nbsp;<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smegnshd&theme=great-gatsby&layout=compact&card_width=445)](https://github.com/anuraghazra/github-readme-stats" /></p>
+
+<!--  
 
 ![Smegnsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=smegnshd&show_icons=true&theme=great-gatsby&count_private=true&include_all_commits=true)
   
@@ -48,7 +48,7 @@ Here are some ideas to get you started:
   
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smegnshd&theme=great-gatsby&layout=compact&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
-
+-->
 
 
 
