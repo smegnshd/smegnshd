@@ -1,8 +1,10 @@
+<!--
 <p align="center">
 <img src="https://36f9fea5-a-62cb3a1a-s-sites.googlegroups.com/site/nips2012topology/home/torus.png?attachauth=ANoY7crCZz42ljPH8nWYVGDBnh3pyzBFlDlIDGGpKh-sEYPl2eWhhI-M_AsfenHYWcS36z_P4x1GSLrBUeaGG1iRcZQuNtBWvnjTnFzJnDFfXzQMtYiIpG3wKAV-V0Hl7AAVYu8_Btjqb_-A3EyRF1n7tNi1N65IGWoz9J6yHN28H1ry_sIvMXOJSJj_UFrIGrn3n0Buh5GQbe91e-sVVIEi6-Zl_GFytA%3D%3D&attredirects=0" height="200"/>
  </p>
+ -->
  <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://36f9fea5-a-62cb3a1a-s-sites.googlegroups.com/site/nips2012topology/home/torus.png?attachauth=ANoY7crCZz42ljPH8nWYVGDBnh3pyzBFlDlIDGGpKh-sEYPl2eWhhI-M_AsfenHYWcS36z_P4x1GSLrBUeaGG1iRcZQuNtBWvnjTnFzJnDFfXzQMtYiIpG3wKAV-V0Hl7AAVYu8_Btjqb_-A3EyRF1n7tNi1N65IGWoz9J6yHN28H1ry_sIvMXOJSJj_UFrIGrn3n0Buh5GQbe91e-sVVIEi6-Zl_GFytA%3D%3D&attredirects=0" height="200" width="600" height="300"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/smegnsh-demelash-67b104a0/">
